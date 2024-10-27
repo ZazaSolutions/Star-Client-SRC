@@ -1,4 +1,6 @@
 # Star Client
+download via workupload bc github a meanie: https://workupload.com/file/XNLJRgRqPW5
+
 a sh1 tenacity skid deved by star, me (just to leak) and a ching chong.. 
 
 no obfuscation is the best protection! this is pretty outdated but I figured to post here cuz I'm cool like that.
